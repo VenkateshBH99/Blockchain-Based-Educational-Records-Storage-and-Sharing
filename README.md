@@ -20,9 +20,34 @@ For individuals, accurate and full educational records are a valuable asset. Edu
     * MLAB (MongoDB),
     * Infura (Blockchain),
     * Metamask.
-### Working of the system
+### SYSTEM DESIGN & ARCHITECTURE
 
 ![Working](/images/1.png)
+
+#### The login-in interface for student and institute
+
+![The login-in interface for student and institute](/images/5.png)
+
+#### The student dashboard to apply for records
+
+![The student dashboard to apply for records](/images/2.png)
+
+####  Spending ether on transaction using Metamask
+
+![ Spending ether on transaction using Metamask](/images/3.png)
+
+#### Institute dashboard of requested documents.
+
+![Institute dashboard of requested documents](/images/12.png)
+
+#### Representative view of the verified document
+
+![Representative view of the verified document](/images/10.png)
+
+#### IPFS or Download view for the student after institute verification
+
+![IPFS or Download view for the student after institute verification](/images/11.png)
+
 
 ### Instructions to run
 
