@@ -17,7 +17,6 @@ For individuals, accurate and full educational records are a valuable asset. Edu
     * OrbitDB.
 * Hosting Services
     * Heroku (React DApp),
-    * MLAB (MongoDB),
     * Infura (Blockchain),
     * Metamask.
 ### SYSTEM DESIGN & ARCHITECTURE
