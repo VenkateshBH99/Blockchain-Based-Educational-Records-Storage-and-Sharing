@@ -22,7 +22,7 @@ For individuals, accurate and full educational records are a valuable asset. Edu
     * Metamask.
 ### Working of the system
 
-![Working](/images/1.PNG)
+![Working](/images/1.png)
 
 ### Instructions to run
 
